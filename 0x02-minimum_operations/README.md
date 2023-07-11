@@ -52,4 +52,3 @@
 | Return min_operations    |
 +--------------------------+
 ```
-- ok bye
